@@ -1,21 +1,117 @@
 [
   {
+    "full_name": "flower-corp/rosedb",
+    "stargazers_count": 2917,
+    "open_issues_count": 7,
+    "forks_count": 436
+  },
+  {
+    "full_name": "unionai-oss/unionml",
+    "stargazers_count": 61,
+    "open_issues_count": 38,
+    "forks_count": 5
+  },
+  {
+    "full_name": "Unleash/unleash",
+    "stargazers_count": 5949,
+    "open_issues_count": 46,
+    "forks_count": 399
+  },
+  {
+    "full_name": "liblaber/sdk-code-gen",
+    "stargazers_count": 88,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "google/jax",
+    "stargazers_count": 18583,
+    "open_issues_count": 1131,
+    "forks_count": 1708
+  },
+  {
+    "full_name": "jfecher/ante",
+    "stargazers_count": 1248,
+    "open_issues_count": 15,
+    "forks_count": 41
+  },
+  {
+    "full_name": "Lissy93/dashy",
+    "stargazers_count": 6007,
+    "open_issues_count": 41,
+    "forks_count": 340
+  },
+  {
+    "full_name": "dagger/dagger",
+    "stargazers_count": 5524,
+    "open_issues_count": 292,
+    "forks_count": 282
+  },
+  {
+    "full_name": "crossbeam-rs/crossbeam",
+    "stargazers_count": 4962,
+    "open_issues_count": 107,
+    "forks_count": 343
+  },
+  {
+    "full_name": "emilk/egui",
+    "stargazers_count": 9420,
+    "open_issues_count": 216,
+    "forks_count": 587
+  },
+  {
+    "full_name": "mullvad/mullvadvpn-app",
+    "stargazers_count": 2493,
+    "open_issues_count": 152,
+    "forks_count": 212
+  },
+  {
+    "full_name": "clap-rs/clap",
+    "stargazers_count": 8826,
+    "open_issues_count": 189,
+    "forks_count": 774
+  },
+  {
+    "full_name": "zellij-org/zellij",
+    "stargazers_count": 6798,
+    "open_issues_count": 249,
+    "forks_count": 195
+  },
+  {
+    "full_name": "pytorch/vision",
+    "stargazers_count": 11891,
+    "open_issues_count": 719,
+    "forks_count": 6019
+  },
+  {
+    "full_name": "netbirdio/netbird",
+    "stargazers_count": 2462,
+    "open_issues_count": 56,
+    "forks_count": 89
+  },
+  {
+    "full_name": "codecrafters-io/build-your-own-x",
+    "stargazers_count": 145587,
+    "open_issues_count": 246,
+    "forks_count": 13897
+  },
+  {
     "full_name": "CeresDB/ceresdb",
-    "stargazers_count": 1013,
-    "open_issues_count": 12,
-    "forks_count": 60
+    "stargazers_count": 1077,
+    "open_issues_count": 15,
+    "forks_count": 67
   },
   {
     "full_name": "readysettech/readyset",
-    "stargazers_count": 358,
-    "open_issues_count": 0,
-    "forks_count": 4
+    "stargazers_count": 850,
+    "open_issues_count": 1,
+    "forks_count": 13
   },
   {
     "full_name": "py-why/dowhy",
-    "stargazers_count": 4683,
-    "open_issues_count": 80,
-    "forks_count": 668
+    "stargazers_count": 4746,
+    "open_issues_count": 81,
+    "forks_count": 671
   },
   {
     "full_name": "chiselstrike/chiselstore",
@@ -25,51 +121,51 @@
   },
   {
     "full_name": "SocketDev/wormhole-crypto",
-    "stargazers_count": 377,
+    "stargazers_count": 378,
     "open_issues_count": 7,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "BurntSushi/ripgrep",
-    "stargazers_count": 31495,
+    "stargazers_count": 31530,
     "open_issues_count": 152,
-    "forks_count": 1411
+    "forks_count": 1412
   },
   {
     "full_name": "tensorchord/envd",
-    "stargazers_count": 383,
-    "open_issues_count": 79,
-    "forks_count": 22
+    "stargazers_count": 464,
+    "open_issues_count": 82,
+    "forks_count": 26
   },
   {
     "full_name": "uptrace/uptrace",
-    "stargazers_count": 723,
+    "stargazers_count": 728,
     "open_issues_count": 5,
     "forks_count": 37
   },
   {
     "full_name": "elastic/beats",
-    "stargazers_count": 11096,
-    "open_issues_count": 1093,
-    "forks_count": 4472
+    "stargazers_count": 11098,
+    "open_issues_count": 1083,
+    "forks_count": 4471
   },
   {
     "full_name": "uptrace/bun",
-    "stargazers_count": 1042,
-    "open_issues_count": 52,
-    "forks_count": 72
+    "stargazers_count": 1089,
+    "open_issues_count": 53,
+    "forks_count": 73
   },
   {
     "full_name": "someengineering/resoto",
-    "stargazers_count": 659,
-    "open_issues_count": 30,
+    "stargazers_count": 716,
+    "open_issues_count": 35,
     "forks_count": 36
   },
   {
     "full_name": "airbnb/visx",
-    "stargazers_count": 15337,
+    "stargazers_count": 15347,
     "open_issues_count": 111,
-    "forks_count": 587
+    "forks_count": 588
   },
   {
     "full_name": "wix/greyhound",
@@ -79,104 +175,8 @@
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 82834,
-    "open_issues_count": 484,
-    "forks_count": 32074
-  },
-  {
-    "full_name": "firecracker-microvm/firecracker-containerd",
-    "stargazers_count": 1486,
-    "open_issues_count": 74,
-    "forks_count": 138
-  },
-  {
-    "full_name": "facebook/jscodeshift",
-    "stargazers_count": 7439,
-    "open_issues_count": 111,
-    "forks_count": 429
-  },
-  {
-    "full_name": "facebook/flow",
-    "stargazers_count": 21758,
-    "open_issues_count": 2479,
-    "forks_count": 1846
-  },
-  {
-    "full_name": "Dreamacro/clash",
-    "stargazers_count": 28186,
-    "open_issues_count": 73,
-    "forks_count": 3936
-  },
-  {
-    "full_name": "hashicorp/terraform",
-    "stargazers_count": 33030,
-    "open_issues_count": 1606,
-    "forks_count": 7681
-  },
-  {
-    "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 47016,
-    "open_issues_count": 10,
-    "forks_count": 6943
-  },
-  {
-    "full_name": "chiselstrike/chiselstrike",
-    "stargazers_count": 238,
-    "open_issues_count": 134,
-    "forks_count": 12
-  },
-  {
-    "full_name": "ahmedtariq01/Cloud-DevOps-Learning-Resources",
-    "stargazers_count": 833,
-    "open_issues_count": 0,
-    "forks_count": 108
-  },
-  {
-    "full_name": "wasp-lang/wasp",
-    "stargazers_count": 1587,
-    "open_issues_count": 184,
-    "forks_count": 64
-  },
-  {
-    "full_name": "coder/coder",
-    "stargazers_count": 486,
-    "open_issues_count": 405,
-    "forks_count": 16
-  },
-  {
-    "full_name": "casbin/casbin",
-    "stargazers_count": 12117,
-    "open_issues_count": 47,
-    "forks_count": 1328
-  },
-  {
-    "full_name": "symforce-org/symforce",
-    "stargazers_count": 840,
-    "open_issues_count": 115,
-    "forks_count": 81
-  },
-  {
-    "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 27145,
-    "open_issues_count": 80,
-    "forks_count": 2365
-  },
-  {
-    "full_name": "puppeteer/puppeteer",
-    "stargazers_count": 78517,
-    "open_issues_count": 1839,
-    "forks_count": 8412
-  },
-  {
-    "full_name": "rust-lang/regex",
-    "stargazers_count": 2311,
-    "open_issues_count": 75,
-    "forks_count": 328
-  },
-  {
-    "full_name": "urfave/cli",
-    "stargazers_count": 18512,
-    "open_issues_count": 160,
-    "forks_count": 1570
+    "stargazers_count": 82925,
+    "open_issues_count": 488,
+    "forks_count": 32091
   }
 ]
