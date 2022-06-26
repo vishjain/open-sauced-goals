@@ -1,20 +1,38 @@
 [
   {
+    "full_name": "ergochat/ergo",
+    "stargazers_count": 1721,
+    "open_issues_count": 188,
+    "forks_count": 141
+  },
+  {
+    "full_name": "gristlabs/grist-core",
+    "stargazers_count": 3127,
+    "open_issues_count": 96,
+    "forks_count": 129
+  },
+  {
+    "full_name": "cloudwego/hertz",
+    "stargazers_count": 910,
+    "open_issues_count": 37,
+    "forks_count": 72
+  },
+  {
     "full_name": "BurntSushi/ripgrep",
-    "stargazers_count": 31655,
-    "open_issues_count": 155,
-    "forks_count": 1413
+    "stargazers_count": 31685,
+    "open_issues_count": 156,
+    "forks_count": 1416
   },
   {
     "full_name": "tensorchord/envd",
-    "stargazers_count": 538,
-    "open_issues_count": 90,
-    "forks_count": 28
+    "stargazers_count": 551,
+    "open_issues_count": 92,
+    "forks_count": 31
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 58162,
-    "open_issues_count": 25,
-    "forks_count": 2915
+    "stargazers_count": 58197,
+    "open_issues_count": 23,
+    "forks_count": 2916
   }
 ]
